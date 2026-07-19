@@ -1,6 +1,6 @@
 FastAPI Movie Backend
 
-This project is my main backend portfolio project and represents the full scope of my backend development knowledge. It is a production-oriented REST API built with modern Python technologies, designed with scalability, security, and maintainability in mind.
+It is a production-oriented REST API built with modern Python technologies, designed with scalability, security, and maintainability in mind.
 The application provides user authentication, role-based access control, movie-related endpoints, background processing, caching, database migrations, and full test coverage — all implemented from scratch.
 
 Tech Stack:
